@@ -1,2 +1,1 @@
-"# Keystroke-Dynamics" 
-A neural network model using the backpropagation method to analyze typing patterns of users on an Android keyboard.
+A  novel  post-authentication  approach  using  keystroke  dynamics,  a behavioral  biometric  that  analyzes  the  unique  typing  patterns  of  users.  By  focusing  on parameters such as key press duration, flight time (the interval between key presses), and finger pressure, the  system  creates  an  individualized typing  profile for each user.
